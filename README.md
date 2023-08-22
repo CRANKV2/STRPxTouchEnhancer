@@ -1,3 +1,5 @@
+ <p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/yEYJjyT.jpg" width="500"></a></p>  
+
 # STRP ✗ Touch Enhancer
 
 ##  Comprehensive Touch Enhancement Suite:
