@@ -1,5 +1,20 @@
 # Changelog for STRP ✗ Touch Enhancer:
 
+## Version 1.2:
+- Added automatic backup and restore functionality for touch settings.
+- Improved user interface with color-coded states and options.
+- Implemented uninstallation feature to remove module files and settings.
+- Enhanced notifications for touch enhancements and restoration completion.
+- Optimized code for better performance and reliability.
+- Added a touch of humor in module description for a delightful read.
+- Bug fixes and other minor improvements.
+
+## Version 1.1:
+- Introduced enhanced touch sensitivity adjustments for improved precision.
+- Added advanced multitouch handling to support smoother interactions.
+- Implemented various optimizations to enhance overall touch experience.
+- Fixed minor bugs and improved stability.
+
 -------
 
 ## v1.0:
