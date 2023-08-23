@@ -1,9 +1,9 @@
 id=STRPTouchEnhancer
 name=STRP ✗ Touch Enhancer
-version=v1.0
-versionCode=1012
+version=v1.2
+versionCode=1281
 author=@CRANKV2 | Telegram | GITHUB
-description=🔥 Unleash the Power of Your Touch! Fine-Tune Every Setting for Lightning-Fast Responses. Elevate Your Device's Touch Experience! 💥
+description=Unleash the Power! | Fine-Tune Every Setting for Lightning-Fast Responses. | Elevate Your Device's Touch Experience! | Termux Command su -c TC 🦅
 support=https://t.me/AndroidRootModulesCommunity
 donate=https://www.paypal.com/donate/?hosted_button_id=ZYR8QRKTJ9NPU
 minMagisk=20000
